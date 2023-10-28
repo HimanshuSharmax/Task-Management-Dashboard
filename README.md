@@ -19,6 +19,9 @@ A web-based dashboard for managing tasks that ensures responsiveness across devi
     ```bash
      Open the task.html file in your web browser.
 
+## Live Preview:
+You can check out <a href="https://himanshusharmax.github.io/Task-Management-Dashboard/task-list.html
+">live-preview</a>
 
 ## Screenshot
 
