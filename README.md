@@ -7,8 +7,7 @@ A web-based dashboard for managing tasks that ensures responsiveness across devi
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/HimanshuSharmax/code-editor.git
-   cd code-editor
+   git clone https://github.com/HimanshuSharmax/Task-Management-Dashboard.git
 
 2. Navigate to the Project Folder:
 
@@ -28,12 +27,6 @@ A web-based dashboard for managing tasks that ensures responsiveness across devi
 ![Screenshot (254)](https://github.com/HimanshuSharmax/Task-Management-Dashboard/assets/86725419/253e6cd9-4749-44c1-92ca-5bc9e8aaaaf9)
 
 ![Web capture_28-10-2023_182046_127 0 0 1](https://github.com/HimanshuSharmax/Task-Management-Dashboard/assets/86725419/bf2d4092-992b-4c57-be16-6997a1b8dde7)
-
-<div align="center">
- <td><img src="https://github.com/HimanshuSharmax/Task-Management-Dashboard/assets/86725419/f4429859-66e1-4d5a-97d2-211ea4a5c691" width=800 height=370></td>
- <td><img src="https://github.com/HimanshuSharmax/Task-Management-Dashboard/assets/86725419/253e6cd9-4749-44c1-92ca-5bc9e8aaaaf9" width=800 height=370></td>
-<td><img src="https://github.com/HimanshuSharmax/Task-Management-Dashboard/assets/86725419/bf2d4092-992b-4c57-be16-6997a1b8dde7" width=800 height=370></td>
-</div>
 
 ## Features
 
