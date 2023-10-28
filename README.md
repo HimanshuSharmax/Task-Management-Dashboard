@@ -31,6 +31,11 @@ You can check out <a href="https://himanshusharmax.github.io/Task-Management-Das
 
 ![Web capture_28-10-2023_182046_127 0 0 1](https://github.com/HimanshuSharmax/Task-Management-Dashboard/assets/86725419/bf2d4092-992b-4c57-be16-6997a1b8dde7)
 
+## Pdf for better understanding of the Challenges
+
+You can check out <a href="https://drive.google.com/file/d/1V2U9FB2rpiy7PnsrqCdk-GvmGrKChTJJ/view?usp=sharing
+">PDF</a>
+
 ## Features
 
 1. Task Listing Page:
