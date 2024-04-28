@@ -1,6 +1,6 @@
 # Task-Management-Dashboard
 
-A web-based dashboard for managing tasks that ensures responsiveness across devices. This project is developed using HTML, CSS, and JavaScript.
+This project encompasses the creation of a web-based dashboard designed to facilitate efficient task management while ensuring seamless responsiveness across various devices. Developed utilizing HTML, CSS, and JavaScript, it represents a culmination of modern web development technologies.
 
 ## Installation
 
@@ -47,7 +47,6 @@ You can check out <a href="https://himanshusharmax.github.io/Task-Management-Das
 
 3. Responsive Design
 - The dashboard is responsive and looks appropriate on both desktop and mobile devices.
-
 
 
 
